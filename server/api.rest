@@ -1,0 +1,28 @@
+###
+GET http://localhost:4500/tareas
+
+###
+GET http://localhost:4500/tareas/tarea/60d5a56c7230b04adced7819
+###
+post http://localhost:4500/tareas/new
+Content-Type: application/json
+
+{
+    "tecnico": "4",
+    "fecha": "2018-10-20 09:00:00Z",
+    "cliente": "Soto león instalaciones ",
+    "descripcion":"ser yo en yo por yo y por ti por mi",
+    "importe": 30
+}
+
+###
+post http://localhost:4500/tareas/new
+
+###
+POST http://localhost:4500/singin
+Content-Type: application/json
+
+{
+    "usuario": "admin",
+    "password":"123"
+}

@@ -1,0 +1,170 @@
+[{
+  "tecnico": 2,
+  "fecha": "2018-10-20 09:00:00Z",
+  "cliente": "Zapateria Pablo",
+  "descripcion": "Arreglo de TPV no facturaba la impresora de tickets",
+  "facturable": true,
+  "importe": 40.00
+},{
+  "tecnico": 2,
+  "fecha": "2018-10-21 09:00:00Z",
+  "cliente": "Zapateria Pablo",
+  "descripcion": "Antivirus Ordenador",
+  "facturable": true,
+  "importe": 30.00
+},{
+  "tecnico": 3,
+  "fecha": "2018-10-21 09:30:00Z",
+  "cliente": "Carniceria Playa",
+  "descripcion": "Cambio de Impresora en garantia",
+  "facturable": false,
+  "importe": 0
+},{
+  "tecnico": 2,
+  "fecha": "2018-11-10 10:00:00Z",
+  "cliente": "Cafeteria Lugano",
+  "descripcion": "Cambio de disco duro",
+  "facturable": true,
+  "importe": 160.70
+},{
+  "tecnico": 4,
+  "fecha": "2018-12-21T11:00:00Z",
+  "cliente": "Musicanarias",
+  "descripcion": "Instalación y chequeo antivirus",
+  "facturable": true,
+  "importe": 40.30
+},{
+  "tecnico": 3,
+  "fecha": "2019-01-10 09:30:00Z",
+  "cliente": "Canarias Infopista",
+  "descripcion": "Chequeo de ordenador y cambio de fuente de poder",
+  "facturable": true,
+  "importe": 90.25
+},
+{
+  "tecnico": 2,
+  "fecha": "2019-02-15 10:30:00Z",
+  "cliente": "Token",
+  "descripcion": "Arreglo de Impresora Laser Color",
+  "facturable": true,
+  "importe": 35.40
+},{
+  "tecnico": 3,
+   "fecha": "2019-02-15 09:30:00Z",
+  "cliente": "Agencia el Cabo",
+  "descripcion": "Revisión coneccion a Internet",
+  "facturable": true,
+  "importe": 30.15
+},{
+   "tecnico": 3,
+   "fecha": "2019-02-16T11:30:00Z",
+  "cliente": "Carniceria Playa",
+  "descripcion": "Instalación ordenador nuevo",
+  "facturable": true,
+  "importe": 220.35
+},{
+  "tecnico": 4,
+   "fecha": "2019-02-17 10:30:00Z",
+  "cliente": "Cafeteria Lugano",
+  "descripcion": "Instalación de impresora nueva",
+  "facturable": true,
+  "importe": 90.40
+},{
+   "tecnico": 4,
+   "fecha": "2019-02-18 09:30:00Z",
+  "cliente": "Agencia Traveling",
+  "descripcion": "Conexión con Orbis",
+  "facturable": false,
+  "importe": 0
+},{
+  "tecnico": 3,
+  "fecha": "2019-02-20 10:30:00Z",
+  "cliente": "Canarias Infopista",
+  "descripcion": "Ampliación del rack",
+  "facturable": true,
+  "importe": 180.35
+},{
+   "tecnico": 2,
+   "fecha": "2019-02-22 10:30:00Z",
+  "cliente": "Estudio de Abogados",
+  "descripcion": "Cambio de disco duro",
+  "facturable": true,
+  "importe": 140.60
+},{
+   "tecnico": 2,
+   "fecha": "2019-02-25T11:30:00Z",
+  "cliente": "Zapateria Pablo",
+  "descripcion": "Antivirus Ordenador",
+  "facturable": true,
+  "importe": 30.50
+},{
+  "tecnico": 3,
+  "fecha": "2019-03-21 09:30:00Z",
+  "cliente": "Carniceria Playa",
+  "descripcion": "Cartuchos para Impresora",
+  "facturable": true,
+  "importe": 15.20
+},{
+  "tecnico": 2,
+  "fecha": "2019-03-23 09:30:00Z",
+  "cliente": "Cafeteria Lugano",
+  "descripcion": "Reconexión camaras de seguridad",
+  "facturable": true,
+  "importe": 25.80
+},{
+  "tecnico": 4,
+  "fecha": "2019-03-25T12:30:00Z",
+  "cliente": "Restaurante La Llama",
+  "descripcion": "Instalación de control de personal",
+  "facturable": true,
+  "importe": 80.40
+},{
+  "tecnico": 3,
+  "fecha": "2019-03-25 14:30:00Z",
+  "cliente": "Canarias Infopista",
+  "descripcion": "Pistola lectora codigo de barras",
+  "facturable": true,
+  "importe": 190.40
+},{
+  "tecnico": 2,
+  "fecha": "2019-03-25 09:30:00Z",
+  "cliente": "Zapateria Pablo",
+  "descripcion": "Cambio de cable de red TPV",
+  "facturable": true,
+  "importe": 12.50
+},{
+  "tecnico": 2,
+  "fecha": "2019-03-28 09:00:00Z",
+  "cliente": "Agencia Traveling",
+  "descripcion": "Antivirus Ordenador",
+  "facturable": true,
+  "importe": 30.50
+},{
+  "tecnico": 3,
+  "fecha": "2019-04-03 09:30:00Z",
+  "cliente": "Carniceria Playa",
+  "descripcion": "Chequeo de Router",
+  "facturable": false,
+  "importe": 0
+},{
+  "tecnico": 2,
+  "fecha": "2019-04-05 09:30:00Z",
+  "cliente": "Agencia el Cabo",
+  "descripcion": "Revisión de impresora",
+  "facturable": true,
+  "importe": 30.50
+},{
+  "tecnico": 4,
+  "fecha": "2019-04-07 10:30:00Z",
+  "cliente": "Musicanarias",
+  "descripcion": "Actualización ordenador hilo musical",
+  "facturable": true,
+  "importe": 30.60
+},{
+  "tecnico": 3,
+  "fecha": "2019-04-07 11:00:00Z",
+  "cliente": "Canarias Infopista",
+  "descripcion": "Cableado ordenador mostrador",
+  "facturable": true,
+  "importe": 90.50
+}]

@@ -1,0 +1,37 @@
+[{
+  "_id": 1,
+  "usuario": "admin",
+  "contraseña": "123",
+  "nombre": "Dardo",
+  "apellidos": "Schuster Gonzalez",
+  "telefono": "676459553",
+  "fecha_inicio": "20/10/1999",
+  "fecha_fin": ""
+},{
+  "_id": 2,
+  "usuario": "juan",
+  "contraseña": "1234",
+  "nombre": "Juan",
+  "apellidos": "Lopez Perez",
+  "telefono": "676999999",
+  "fecha_inicio": "14/04/2014",
+  "fecha_fin": ""
+},{
+  "_id": 3,
+  "usuario": "luisa",
+  "contraseña": "2345",
+  "nombre": "Carlos",
+  "apellidos": "Velazco Suarez",
+  "telefono": "676888888",
+  "fecha_inicio": "14/06/2019",
+  "fecha_fin": "15/03/2020"
+},{
+  "_id": 4,
+  "usuario": "mario",
+  "contraseña": "2345",
+  "nombre": "Mario",
+  "apellidos": "Perez Lopez",
+  "telefono": "676777777",
+  "fecha_inicio": "05/03/2009",
+  "fecha_fin": ""
+}]
